@@ -6,4 +6,4 @@ The only weird thing to note is that you have to move the mouse to start in the 
 
 Some sample images are provided in the folder, but feel free to use your own gel and plate photos!
 
-https://www.youtube.com/watch?v=QLWyiRiC8zA
+demo video: https://www.youtube.com/watch?v=QLWyiRiC8zA
